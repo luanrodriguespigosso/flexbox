@@ -1,0 +1,122 @@
+.container-row { 
+    display: flex;
+    background: #4F1BBF;
+    margin: 10px;
+}
+.box1 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box2 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box3 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box4 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+/*=======================================*/
+.container-row-reverse { 
+    display: flex;
+    flex-direction: row-reverse;
+    background: #4F1BBF;
+    margin: 10px;
+}
+.box1 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box2 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box3 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box4 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+/*=======================================*/
+.container-column {
+    display: flex;
+    flex-direction: column;
+    background: #4F1BBF;
+    margin: 10px;
+}
+.box-column-1 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box-column-2 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box-column-3 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box-column-4 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+/*=======================================*/
+.container-column-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+    background: #4F1BBF;
+    margin: 10px;
+}
+.box-column-1 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box-column-2 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box-column-3 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.box-column-4 {
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
