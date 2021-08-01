@@ -59,3 +59,15 @@
     border: 1px solid white;
     margin-top: 5px;
 }
+.container-flex1 {
+    display: flex;
+    border: 1px solid white;
+    background: #4F1BBF;
+    margin-top: 5px;
+}
+.flex1 {
+    flex: 1;
+}
+.flex2 {
+    flex: 2;
+}
