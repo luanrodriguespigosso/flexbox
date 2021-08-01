@@ -1,36 +1,57 @@
-body {
-    background-color: #000;
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    width: 960px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;   
+    background-color: #4F1BBF;
+}
+#title-h1 {
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 10px;
 }
 .container-row { 
     display: flex;
+    border: 1px solid white;
     background: #4F1BBF;
-    margin: 10px;
+    padding: 5 0;
 }
 .box1, .box2 {
     background-color: #FFFFFF;
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 7px;
     font-size: 18px;
 }
 /*=======================================*/
 .container-row-reverse { 
     display: flex;
     flex-direction: row-reverse;
+    border: 1px solid white;
+    margin-top: 5px;
+    padding: 5 0;
     background: #4F1BBF;
-    margin: 10px;
 }
 
 /*=======================================*/
 .container-column {
     display: flex;
     flex-direction: column;
+    border: 1px solid white;
+    margin-top: 5px;
     background: #4F1BBF;
-    margin: 10px;
 }
 .box-column-1, .box-column-2 {
     background-color: #FFFFFF;
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 7px;
     font-size: 18px;
 }
 /*=======================================*/
@@ -38,5 +59,6 @@ body {
     display: flex;
     flex-direction: column-reverse;
     background: #4F1BBF;
-    margin: 10px;
+    border: 1px solid white;
+    margin-top: 5px;
 }
