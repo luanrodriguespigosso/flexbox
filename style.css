@@ -71,6 +71,7 @@
 .flex2 {
     flex: 2;
 }
+/*
 @media only screen and (max-width: 991px) {
     .container,
     .container-row,
@@ -80,4 +81,4 @@
     .container-flex1 {
         width: 100%;
     }
-}
+}*/
